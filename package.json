@@ -1,0 +1,23 @@
+{
+  "description": "Test component for testing purposes",
+  "keywords": [
+    "web-components",
+    "web-component",
+    "polymer",
+    "test",
+    "component"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bramvanderholst/test-component.git"
+  },
+  "homepage": "https://github.com/bramvanderholst/test-component",
+  "name": "reachdigital/test-component",
+  "license": "BSD-3-Clause",
+  "version": "1.0.0",
+  "main": "test-component.js",
+  "author": "Bram",
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0"
+  }
+}
